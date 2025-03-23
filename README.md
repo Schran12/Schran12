@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Olá! Sou o Matheus👋</h1>
+<h1 align="center">Olá! Sou o Matheus, sou um Desenvolvedor Front-End👋</h1>
 
 ###
 
