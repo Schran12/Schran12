@@ -28,7 +28,7 @@
   <a href="mailto:matheusschran12@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/matheus-s-souza-1a254029a/" target="_blank">
+  <a href="https://www.linkedin.com/in/matheus-schran12/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
   </a>
   <a href="http://wa.me/5511945458837" target="_blank">
