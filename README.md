@@ -51,6 +51,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
+![Schran12's Stats](https://github-readme-stats.vercel.app/api?username=Schran12&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![Schran12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Schran12&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
