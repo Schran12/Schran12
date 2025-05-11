@@ -1,4 +1,4 @@
-![Schran12's Stats](https://github-readme-stats.vercel.app/api?username=Schran12&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)<div align="center">
+
   <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxqeDJkOWtzejQ0OG1obmNhcDV0Mzhscjlmczh1NjBkcGwwbmZ3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HBY1eWGzDALwnyeHPw/giphy.gif"  />
 </div>
 
@@ -53,5 +53,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-![Schran12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Schran12&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
+![Schran12's Stats](https://github-readme-stats.vercel.app/api?username=Schran12&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)<div align="center">
 
