@@ -1,4 +1,4 @@
-<div align="center">
+![Schran12's Stats](https://github-readme-stats.vercel.app/api?username=Schran12&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)<div align="center">
   <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxqeDJkOWtzejQ0OG1obmNhcDV0Mzhscjlmczh1NjBkcGwwbmZ3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HBY1eWGzDALwnyeHPw/giphy.gif"  />
 </div>
 
@@ -9,7 +9,9 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/matheus-schran12/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25" alt="Whatsapp logo"  />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Gmail logo"  />
 </div>
 
 ###
@@ -51,7 +53,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-![Schran12's Stats](https://github-readme-stats.vercel.app/api?username=Schran12&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-
 ![Schran12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Schran12&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
