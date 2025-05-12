@@ -64,8 +64,11 @@
 </div>
 <br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Schran12&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Schran12's Stats" />
-
-
+<a href="https://github.com/Schran12">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Schran12=github-readme-stats" />
+</a>
+<a href="https://github.com/Schran12">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Schran12=convoychat" />
+</a>
 
 
