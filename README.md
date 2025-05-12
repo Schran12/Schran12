@@ -64,11 +64,14 @@
 </div>
 <br>
 
-<a href="https://github.com/Schran12">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Schran12=github-readme-stats" />
-</a>
-<a href="https://github.com/Schran12">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Schran12=convoychat" />
-</a>
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Schran12&theme=prussian&show_icons=true&hide_border=false&count_private=false" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schran12&theme=prussian&show_icons=true&hide_border=false&layout=compact" />
+    </td>
+  </tr>
+</table>
 
