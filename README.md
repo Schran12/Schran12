@@ -17,7 +17,7 @@
 
 ###
 
-<h3 align="left">🛠 Tecnologias e Ferramentas</h3>
+<h3 align="left">🛠 Tecnologias </h3>
 
 ###
 
@@ -40,6 +40,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
+</div>
+
+###
+
+<h3 align="left">🛠 Ferramentas</h3>
+
+###
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
@@ -54,7 +62,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
 <br>
 
   <img src="https://github-readme-stats.vercel.app/api?username=Schran12&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Schran12's Stats" />
