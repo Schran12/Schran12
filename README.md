@@ -64,14 +64,9 @@
 </div>
 <br>
 
-<table>
-<div>
-      <img width="450px" src="https://github-readme-stats.vercel.app/api?username=Schran12&theme=prussian&show_icons=true&hide_border=true&count_private=true" />
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Schran12&theme=prussian&show_icons=true&hide_border=true&count_private=true" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schran12&theme=prussian&layout=compact&hide_border=true" width="400" />
 </div>
-  <div>
-      <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schran12&theme=prussian&layout=compact&hide_border=true" />
-  </div>
-</div>
-</table>
 
 
