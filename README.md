@@ -67,10 +67,10 @@
 <table>
   <tr>
     <td>
-      <img width="420px" src="https://github-readme-stats.vercel.app/api?username=Schran12&theme=prussian&show_icons=true&hide_border=true&count_private=true" />
+      <img width="450px" src="https://github-readme-stats.vercel.app/api?username=Schran12&theme=prussian&show_icons=true&hide_border=true&count_private=true" />
     </td>
     <td>
-      <img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schran12&theme=prussian&layout=compact&hide_border=true" />
+      <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schran12&theme=prussian&layout=compact&hide_border=true" />
     </td>
   </tr>
 </table>
