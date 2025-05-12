@@ -55,9 +55,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-<div align="center" style="margin-top: 30px;">
+<br>
+
   <img src="https://github-readme-stats.vercel.app/api?username=Schran12&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Schran12's Stats" />
-</div>
+
 
 
 
