@@ -65,14 +65,13 @@
 <br>
 
 <table>
-  <tr>
-    <td>
+<div>
       <img width="450px" src="https://github-readme-stats.vercel.app/api?username=Schran12&theme=prussian&show_icons=true&hide_border=true&count_private=true" />
-    </td>
-    <td>
+</div>
+  <div>
       <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schran12&theme=prussian&layout=compact&hide_border=true" />
-    </td>
-  </tr>
+  </div>
+</div>
 </table>
 
 
