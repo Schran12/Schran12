@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify" />
 
 
----
+<br>
 
 ## Estatística 📊
 <div align="center">
