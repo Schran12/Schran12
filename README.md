@@ -2,8 +2,8 @@
 </h1>
 <p align="center">Desenvolvedor Front-end⚡</p>
 <p align="center">Sempre buscando aprender! 🚀</p>
+
 <p align="center">
-  
  <a href="https://schran12.github.io/site-schran/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
    <a href="https://schran12.github.io/site-schran/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
  <a href="https://schran12.github.io/site-schran/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
