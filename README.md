@@ -19,7 +19,7 @@
   </p>
 <br> 
 
-<div align="center" style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
 
   <div>
   
