@@ -57,12 +57,12 @@
 
 
 ## Estatísticas atuais do GitHub  📊
-![Stats](https://github-readme-stats.vercel.app/api?username=Schran12icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schran12icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
+![Schran12's Stats](https://github-readme-stats.vercel.app/api?username=Schran12&theme=dark&show_icons=true&hide_border=false&count_private=false)
+![Schran12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Schran12&theme=dark&show_icons=true&hide_border=false&layout=compact)
 > Check Commits below, GitHub stats are sometimes inaccurate due to caching.
 
 ## Sequências do GitHub 🔥
-![Streaks](https://nirzak-streak-stats.vercel.app/?user=Schran12&theme=jolly&date_format=j%20M%5B%20Y%5D)
+![Schran12's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Schran12&theme=dark&hide_border=false)
 
 ### Obrigado por visitar meu perfil no GitHub!
 
