@@ -19,10 +19,6 @@
   </p>
 <br> 
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
-
-  <div>
-  
   ## Tecnologias 💻
   #### Linguagens  
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,py,html,css" /></a>  
@@ -53,13 +49,9 @@
   <img src="https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify" />
   
-  </div>
 
   <div>
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjU3cDFzdWoybHpmNnl5OGE3cWZicnl5cHBsNXA3aTYwNjBjZ2ZzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ssts7rvD7E01O/giphy.gif" alt="GIF engraçado" width="250px" />
-  </div>
-
-</div>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjU3cDFzdWoybHpmNnl5OGE3cWZicnl5cHBsNXA3aTYwNjBjZ2ZzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ssts7rvD7E01O/giphy.gif" alt="GIF engraçado" width="250px" /></div>
 
 
 ---
