@@ -20,10 +20,6 @@
 <br> <br>
 ---
 
-[Matheus Schran - Portfolio](https://schran12.github.io/site-schran/) ,
-</> </> e criado com 💛 por Matheus.
-
-
 ## Tecnologias 💻
 #### Linguagens
 [![My Skills](https://skillicons.dev/icons?i=js,py,html,css)](https://skillicons.dev)
