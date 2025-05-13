@@ -19,7 +19,7 @@
   </p>
 <br> <br>
 ---
-### <img src="https://itsvg.in/favicon.ico" width="16px" />  Portfolio 
+
 [Matheus Schran - Portfolio](https://schran12.github.io/site-schran/) ,
 </> </> e criado com 💛 por Matheus.
 
