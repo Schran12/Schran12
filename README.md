@@ -4,9 +4,9 @@
 <p align="center">Sempre buscando aprender! 🚀</p>
 
 <p align="center">
- <a href="https://schran12.github.io/site-schran/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://www.linkedin.com/in/matheus-schran12/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://www.linkedin.com/in/matheus-schran12/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=gmail&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+  <a href = "mailto:matheusschran12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-schran12/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://w.app/hfzkas" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ## Criação 👨‍💻
 
