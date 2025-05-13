@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa"/>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5tNnpnYmZrMDBiZnZqdmd0aXFkYTRocDRucDJsczQ4dms0cWo5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Jir3toQTWW9Ne/giphy.gif" alt="GIF animado" width="300"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lmaDFnOWFwa2JpeXc4YzVjbWU5cXNsbmN1ejEyczE2NGhrcnp4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GltC4HZLjJLvq/giphy.gif" alt="GIF animado" width="300"/>
 </p>
 <div align="center">
   <h1> Olá 👋🏻, Sou o Matheus
@@ -91,7 +91,5 @@
 <p align="center">
 <img src="https://github.com/Schran12/Schran12/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
-
-![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FSchran12&s=40&c=716f6f&bg=00000000&no=2&ff=digi&tb=&ta=Visitantes)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer"/>
