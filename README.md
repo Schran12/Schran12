@@ -34,7 +34,7 @@
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,ps,vscode,wordpress" /></a>  
 
   <div >
-    <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjU3cDFzdWoybHpmNnl5OGE3cWZicnl5cHBsNXA3aTYwNjBjZ2ZzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ssts7rvD7E01O/giphy.gif" alt="GIF engraçado" width="250px" /></div>
+    <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjU3cDFzdWoybHpmNnl5OGE3cWZicnl5cHBsNXA3aTYwNjBjZ2ZzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ssts7rvD7E01O/giphy.gif" alt="GIF engraçado" width="470px" /></div>
 
   #### Database/State  
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql" /></a>  
