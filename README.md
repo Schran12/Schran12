@@ -53,14 +53,13 @@
 
 
 ## Estatísticas atuais do GitHub  📊
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Schran12&theme=dark&show_icons=true&hide_border=false&count_private=false" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schran12&theme=dark&show_icons=true&hide_border=false&layout=compact" height="200">
+<div align="center">
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Schran12&theme=dark&show_icons=true&hide_border=false&count_private=false" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schran12&theme=dark&show_icons=true&hide_border=false&layout=compact" height="200" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Schran12&theme=dark&hide_border=false" height="200" />
+  </div>
 </div>
-<div style="display: flex; justify-content: center; gap: 10px;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Schran12&theme=dark&hide_border=false" alt="Schran12's Streak Stats" />
-</div>
-
 ### Obrigado por visitar meu perfil no GitHub!
 
 ---
