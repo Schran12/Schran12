@@ -86,9 +86,12 @@
   />
   </div>
 
+
 ---
 <p align="center">
 <img src="https://github.com/Schran12/Schran12/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
+
+![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FSchran12&s=40&c=716f6f&bg=00000000&no=2&ff=digi&tb=&ta=Visitantes)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer"/>
