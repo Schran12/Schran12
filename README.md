@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDd3Y2NnbmM4Y3ppdnJrOWVmYjZwajg4eW9pcG13bW9oMzlyeWdjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HBY1eWGzDALwnyeHPw/giphy.gif" alt="Gif animado" />
+</p>
 <h1 align="center"> Olá 👋🏻, Sou o Matheus </br> 
 </h1>
 <p align="center">Desenvolvedor Front-end⚡</p>
