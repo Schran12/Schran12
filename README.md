@@ -51,6 +51,9 @@
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
 <br>
+
+---
+
 <div align="center">
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=Schran12&theme=dark&show_icons=true&hide_border=false&count_private=false" height="200" />
