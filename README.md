@@ -3,10 +3,13 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5tNnpnYmZrMDBiZnZqdmd0aXFkYTRocDRucDJsczQ4dms0cWo5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Jir3toQTWW9Ne/giphy.gif" alt="GIF animado" width="300"/>
 </p>
-<h1 align="center"> Olá 👋🏻, Sou o Matheus
+<div align="center">
+  <h1> Olá 👋🏻, Sou o Matheus
 </h1>
-<p align="center">Desenvolvedor Front-end⚡</p>
-<p align="center">Sempre buscando aprender! 🚀</p>
+<p >Desenvolvedor Front-end⚡</p>
+<p>Sempre buscando aprender! 🚀</p>
+</div>
+
 
 <p align="center">
   <a href="https://schran12.github.io/site-schran/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank"></a> 
