@@ -62,13 +62,11 @@
   <img
     height=165
     align="center"
-    width=475
     alt="GitHub Stats"
     src="https://github-readme-stats.vercel.app/api/?username=Schran12&show_icons=true&count_private=true&rank_icon=github&theme=dark&font=Iosevka"
   />
   <img
     height=165
-    width=475
     align="center"
     alt="Top Language"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schran12&layout=compact&font=Iosevka&langs_count=16&theme=dark"
@@ -85,7 +83,6 @@
   <img
     height=154
     align="center"
-    width=475
     alt="Top Language"
     border=""    src="https://github-readme-streak-stats.herokuapp.com?user=Schran12&theme=dark&card_width=885"
   />
