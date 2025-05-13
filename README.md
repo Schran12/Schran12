@@ -69,9 +69,3 @@
 
 [![](https://visitcountpro.netlify.app/api?id=Schran12&pretty=true)](https://visitcount.itsvg.in)
 
-## Skyline 3D 🌌
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Schran12/Schran12/main/grafico.svg" alt="GitHub 3D Contribution Graph" />
-</p>
-
