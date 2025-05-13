@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa"/>
 
 <p align="center">
-  <div class="tenor-gif-embed" data-postid="27319379" data-share-method="host" data-aspect-ratio="1.18959" data-width="100%"><a href="https://tenor.com/view/hunter-gif-27319379">Hunter GIF</a>from <a href="https://tenor.com/search/hunter-gifs"></a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5tNnpnYmZrMDBiZnZqdmd0aXFkYTRocDRucDJsczQ4dms0cWo5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Jir3toQTWW9Ne/giphy.gif" alt="GIF animado" width="300"/>
 </p>
 <h1 align="center"> Olá 👋🏻, Sou o Matheus </br> 
 </h1>
