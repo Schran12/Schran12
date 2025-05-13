@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa"/>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDd3Y2NnbmM4Y3ppdnJrOWVmYjZwajg4eW9pcG13bW9oMzlyeWdjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HBY1eWGzDALwnyeHPw/giphy.gif" alt="Gif animado" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmIwbWE1ODE5cGJpZ3F2cml4Z3drbWppeDh5ZGlrbWp1dTdjZW80YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1v2lXOfPBqKygjlkCM/giphy.gif" alt="Gif animado" />
 </p>
 <h1 align="center"> Olá 👋🏻, Sou o Matheus </br> 
 </h1>
