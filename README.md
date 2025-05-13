@@ -1,71 +1,75 @@
+<h1 align="center"> Olá 👋🏻, Sou o Matheus </br> 
+</h1>
+<p align="center">Desenvolvedor Front-end⚡</p>
+<p align="center">Sempre buscando aprender! 🚀</p>
+<p align="center">
+  
+ <a href="https://schran12.github.io/site-schran/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.linkedin.com/in/matheus-schran12/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 
-<div align="center">
-  <img height="150" src="https://media2.giphy.com/media/HBY1eWGzDALwnyeHPw/giphy.gif" />
-</div>
+## Criação 👨‍💻
 
-###
 
-<h1 align="center">Olá sou Matheus!👋</h1>
+### <img src="https://itsvg.in/favicon.ico" width="16px" />  Portfolio 
+[Matheus Schran - Portfolio](https://schran12.github.io/site-schran/) ,
+</> </> e criado com 💛 por Matheus.
 
-###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/matheus-schran12/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-  <a href="https://w.app/2xo1wb"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25" alt="Whatsapp logo"  /></a>
-  <a href="mailto: matheusschran12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Gmail logo"  /></a>
-</div>
+## Tecnologias 💻
+#### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 
-###
+#### JS Framework/Biblioteca
+![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
 
-<h3 align="left">🛠 Tecnologias </h3>
 
-###
+#### CSS Framework/Biblioteca
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-</div>
+#### Design/Ferramentas Visuais
+[Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
+![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 
-###
+#### Database/State
 
-<h3 align="left">🛠 Ferramentas</h3>
+#### Backend
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
+![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
 
-###
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-<br>
+#### Hospedagem Web
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
+![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
 
-<div style="display: flex; gap: 20px; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schran12&theme=prussian&layout=compact&hide_border=true" width="400" />
-</div>
+#### Gerenciador de Pacotes
+![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
+![Yarn](https://img.shields.io/badge/-yarn-000?style=for-the-badge&logo=yarn)
 
+#### Controle de Versionamento
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+
+
+## Estatísticas atuais do GitHub  📊
+![Stats](https://github-readme-stats.vercel.app/api?username=Schran12_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schran12_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
+> Check Commits below, GitHub stats are sometimes inaccurate due to caching.
+
+## Sequências do GitHub 🔥
+![Streaks](https://nirzak-streak-stats.vercel.app/?user=Schran12&theme=jolly&date_format=j%20M%5B%20Y%5D)
+
+### Obrigado por visitar meu perfil no GitHub!
+
+---
+<p align="center">
+<img src="https://github.com/Schran12/Schran12/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+[![](https://visitcountpro.netlify.app/api?id=Schran12&pretty=true)](https://visitcount.itsvg.in)
 
