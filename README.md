@@ -72,6 +72,6 @@
 ## Skyline 3D 🌌
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Schran12/Schran12/main/profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/Schran12/Schran12/main/grafico.svg" alt="GitHub 3D Contribution Graph" />
 </p>
 
