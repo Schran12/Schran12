@@ -31,7 +31,7 @@
   #### CSS Framework/Biblioteca  
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap,tailwind" /></a> 
 
-<div><img align="right"src="https://media.giphy.com/media/YwNQdDLLsqa1pWoqoM/giphy.gif?cid=ecf05e479z5qat308t3q765n1v1bbrvzng0uwpsa6fyc4552&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="GIF engraçado" width="500px" height="300" /></div>
+<div><img align="right"src="https://media.giphy.com/media/YwNQdDLLsqa1pWoqoM/giphy.gif?cid=ecf05e479z5qat308t3q765n1v1bbrvzng0uwpsa6fyc4552&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="GIF engraçado" width="500px" height="500" /></div>
     
   #### Design/Ferramentas Visuais  
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,ps,vscode,wordpress" /></a>  
@@ -55,8 +55,6 @@
   <img src="https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify" />
 
 
-  
-<div><img align="right"src="https://media.giphy.com/media/cRSHEGsXtmDb3Z1P4K/giphy.gif?cid=ecf05e47n3sol0b6gidiw71rl732qoaju7rf6q4lzue89xq3&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="GIF engraçado"  height="900" /></div>
 ---
 
 <div align="center">
