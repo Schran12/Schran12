@@ -53,9 +53,10 @@
 
 
 ## Estatísticas atuais do GitHub  📊
-![Schran12's Stats](https://github-readme-stats.vercel.app/api?username=Schran12&theme=dark&show_icons=true&hide_border=false&count_private=false)
-
-![Schran12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Schran12&theme=dark&show_icons=true&hide_border=false&layout=compact&card_width=495)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Schran12&theme=dark&show_icons=true&hide_border=false&count_private=false" width="495"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schran12&theme=dark&show_icons=true&hide_border=false&layout=compact&card_width=495" width="495"/>
+</div>
 
 ![Schran12's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Schran12&theme=dark&hide_border=false)
 
