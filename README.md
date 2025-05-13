@@ -5,8 +5,7 @@
 </p>
 
 <div align="center">
-  <h1> Olá 👋🏻, Sou o Matheus
-</h1>
+ #### Olá 👋🏻, Sou o Matheus
 <p >Desenvolvedor Front-end⚡</p>
 <p>Sempre buscando aprender! 🚀</p>
 </div>
@@ -91,8 +90,7 @@
 ---
 
 <div align="center">
-<h1> Obrigado pela visita! 👋🏻
-</h1>
+#### Obrigado pela visita! 👋🏻
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJiaGljOXdzOGQ3eGF0ZDQwcnFsd3Q3MWozbTkzcjhuYnNxb2p0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/z8OcWLLk4SrpS/giphy.gif" width="200px" height="200" />
 </div>
 
