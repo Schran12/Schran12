@@ -6,7 +6,7 @@
 <p align="center">
   <a href = "mailto:matheusschran12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-schran12/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://w.app/hfzkas" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://w.app/hfzkas" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%230077B5?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 
 ## Criação 👨‍💻
 
