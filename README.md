@@ -52,7 +52,8 @@
 <br>
 
 
-![Gengar Pokémon](https://w7.pngwing.com/pngs/801/38/png-transparent-gengar-haunter-pikachu-pokemon-video-game-pikachu-purple-game-mammal.png)
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjU3cDFzdWoybHpmNnl5OGE3cWZicnl5cHBsNXA3aTYwNjBjZ2ZzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ssts7rvD7E01O/giphy.gif" alt="GIF engraçado">
+
 ---
 
 <div align="center">
@@ -89,7 +90,5 @@
 <p align="center">
 <img src="https://github.com/Schran12/Schran12/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
-
-[![](https://visitcountpro.netlify.app/api?id=Schran12&pretty=true)](https://visitcount.itsvg.in)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer"/>
