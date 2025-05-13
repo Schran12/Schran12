@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa"/>
+
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDd3Y2NnbmM4Y3ppdnJrOWVmYjZwajg4eW9pcG13bW9oMzlyeWdjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HBY1eWGzDALwnyeHPw/giphy.gif" alt="Gif animado" />
 </p>
@@ -55,12 +57,34 @@
 ---
 
 <div align="center">
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Schran12&theme=dark&show_icons=true&hide_border=false&count_private=false" height="200" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schran12&theme=dark&show_icons=true&hide_border=false&layout=compact" height="200" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Schran12&theme=dark&hide_border=false" height="200" />
+  <img
+    height=165
+    align="center"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/?username=Schran12&show_icons=true&count_private=true&rank_icon=github&theme=dark&font=Iosevka"
+  />
+  <img
+    height=165
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schran12&layout=compact&font=Iosevka&langs_count=16&theme=dark"
+  />
+  <br>
+  <br>
+  <img
+    align="center"
+    alt="Top Language"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Schran12&theme=dark"
+  />
+  <br>
+  <br>
+  <img
+    height=154
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-streak-stats.herokuapp.com?user=Schran12&theme=dark&card_width=885"
+  />
   </div>
-</div>
 
 ---
 <p align="center">
