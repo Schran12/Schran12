@@ -7,9 +7,6 @@
 <div align="center">
   <h1> Olá 👋🏻, Sou o Matheus
 </h1>
-</div> 
-
-</div>
 <p >Desenvolvedor Front-end⚡</p>
 <p>Sempre buscando aprender! 🚀</p>
 </div>
