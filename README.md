@@ -79,6 +79,7 @@
     height=154
     align="center"
     alt="Top Language"
+    border="none"
     src="https://github-readme-streak-stats.herokuapp.com?user=Schran12&theme=dark&card_width=885"
   />
   </div>
