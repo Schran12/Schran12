@@ -1,9 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa"/>
 
-<p align="right">
+<p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lmaDFnOWFwa2JpeXc4YzVjbWU5cXNsbmN1ejEyczE2NGhrcnp4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GltC4HZLjJLvq/giphy.gif" alt="GIF animado" width="300"/>
 </p>
-<div>
+
+<div align="center">
   <h1> Olá 👋🏻, Sou o Matheus
 </h1>
 </div> 
