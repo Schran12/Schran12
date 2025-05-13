@@ -19,40 +19,48 @@
   </p>
 <br> 
 
-## Tecnologias 💻
-#### Linguagens
-[![My Skills](https://skillicons.dev/icons?i=js,py,html,css)](https://skillicons.dev)
+<div align="center" style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
 
-#### JS Framework/Biblioteca
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,vue,ts)](https://skillicons.dev)
+  <div>
+  
+  ## Tecnologias 💻
+  #### Linguagens  
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,py,html,css" /></a>  
 
+  #### JS Framework/Biblioteca  
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,react,vue,ts" /></a>  
 
-#### CSS Framework/Biblioteca
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind)](https://skillicons.dev)
+  #### CSS Framework/Biblioteca  
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap,tailwind" /></a>  
 
-#### Design/Ferramentas Visuais
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,vscode,wordpress)](https://skillicons.dev)
+  #### Design/Ferramentas Visuais  
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,ps,vscode,wordpress" /></a>  
 
-#### Database/State
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
+  #### Database/State  
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql" /></a>  
 
-#### Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,fastapi)](https://skillicons.dev)
+  #### Backend  
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,fastapi" /></a>  
 
-#### Gerenciador de Pacotes
-[![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
+  #### Gerenciador de Pacotes  
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=npm" /></a>  
 
-#### Controle de Versionamento
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+  #### Controle de Versionamento  
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github" /></a>  
 
-#### Hospedagem Web
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
-![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
-![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
-<br>
+  #### Hospedagem Web  
+  <img src="https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel" />
+  <img src="https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify" />
+  
+  </div>
 
+  <div>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjU3cDFzdWoybHpmNnl5OGE3cWZicnl5cHBsNXA3aTYwNjBjZ2ZzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ssts7rvD7E01O/giphy.gif" alt="GIF engraçado" width="250px" />
+  </div>
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjU3cDFzdWoybHpmNnl5OGE3cWZicnl5cHBsNXA3aTYwNjBjZ2ZzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ssts7rvD7E01O/giphy.gif" alt="GIF engraçado">
+</div>
+
 
 ---
 
