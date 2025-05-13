@@ -56,7 +56,7 @@
 
 ---
 
-## Status 💻
+## Estatística 📊
 <div align="center">
   <img
     height=165
