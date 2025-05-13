@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5tNnpnYmZrMDBiZnZqdmd0aXFkYTRocDRucDJsczQ4dms0cWo5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Jir3toQTWW9Ne/giphy.gif" alt="GIF animado" width="300"/>
 </p>
-<h1 align="center"> Olá 👋🏻, Sou o Matheus </br> 
+<h1 align="center"> Olá 👋🏻, Sou o Matheus
 </h1>
 <p align="center">Desenvolvedor Front-end⚡</p>
 <p align="center">Sempre buscando aprender! 🚀</p>
