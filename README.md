@@ -1,11 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=6fa3fa&text=Seja%20bem-vindo!&reversal=false&section=header&fontAlign=50&fontAlignY=30&fontColor=fff&fontSize=30"/>
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lmaDFnOWFwa2JpeXc4YzVjbWU5cXNsbmN1ejEyczE2NGhrcnp4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GltC4HZLjJLvq/giphy.gif" alt="GIF animado" width="300"/>
 </p>
 
 <div align="center">
- <h1>Olá, Sou Matheus! 👋🏻</h1>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&duration=3000&pause=1000&color=6FA3FA&center=true&vCenter=true&random=true&width=435&lines=Ol%C3%A1%2C+Sou+o+Matheus!;Hello%2C+I'm+Matheus!;+%C2%A1Hola%2C+soy+Matheus!;+%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E9%A9%AC%E7%89%B9%E4%B9%8C%E6%96%AF%EF%BC%81;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E3%83%9E%E3%83%86%E3%82%A6%E3%82%B9%E3%81%A7%E3%81%99%EF%BC%81;Ciao%2C+sono+Matheus!)](https://git.io/typing-svg) 
+  
 <p >Desenvolvedor Front-end⚡</p>
 <p>Sempre buscando aprender! 🚀</p>
 </div>
@@ -95,7 +97,6 @@
 
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJiaGljOXdzOGQ3eGF0ZDQwcnFsd3Q3MWozbTkzcjhuYnNxb2p0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/z8OcWLLk4SrpS/giphy.gif" width="200px" height="200" />
-  <h1> Obrigado pela visita! 👋🏻</h1>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=6fa3fa&text=Obrigado%20pela%20visita!&reversal=false&section=footer&fontAlign=50&fontAlignY=75&fontColor=fff&fontSize=30"/>
