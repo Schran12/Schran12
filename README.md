@@ -17,40 +17,34 @@
 
 ## Tecnologias 💻
 #### Linguagens
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,html,css)](https://skillicons.dev)
 
 #### JS Framework/Biblioteca
-[![My Skills](https://skillicons.dev/icons?i=js,nextjs,react,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,vue,ts)](https://skillicons.dev)
 
 
 #### CSS Framework/Biblioteca
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind)](https://skillicons.dev)
 
 #### Design/Ferramentas Visuais
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
-![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,vscode,wordpress)](https://skillicons.dev)
 
 #### Database/State
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
 
 #### Backend
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
-![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,fastapi)](https://skillicons.dev)
+
+#### Gerenciador de Pacotes
+[![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
+
+#### Controle de Versionamento
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 #### Hospedagem Web
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
-
-#### Gerenciador de Pacotes
-![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
-![Yarn](https://img.shields.io/badge/-yarn-000?style=for-the-badge&logo=yarn)
-
-#### Controle de Versionamento
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 
 ## Estatísticas atuais do GitHub  📊
