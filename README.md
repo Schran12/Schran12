@@ -29,8 +29,8 @@ Trabalho principalmente com **JavaScript**, **React.js** e **Next.js**, além de
 
 -   📱 Layouts responsivos com HTML, CSS e Bootstrap
 -   🐘 Desenvolvimento e integrações com PHP
--   🔧 Integração e customização com WordPress
 -   ⚡ Sites e aplicações com React.js e Next.js
+-   🔧 Integração e customização com WordPress
 -   📦 Versionamento com Git e GitHub
 -   🎨 Desenvolvimento de interfaces web
 -   🖌️ Design e prototipação com Figma, Canva e Photoshop
@@ -44,9 +44,9 @@ Trabalho principalmente com **JavaScript**, **React.js** e **Next.js**, além de
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
